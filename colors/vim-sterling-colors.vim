@@ -12,7 +12,7 @@ if version > 580
     endif
 endif
 
-let colors_name="sterling-colors"
+let g:colors_name="sterling-colors"
 
 if has("gui_running")
     set background=dark
