@@ -5,4 +5,7 @@ vim_colors "sterling-colors" do
   reset      true
   background :dark
 
+  Normal "#10373f"
+
+
 end
